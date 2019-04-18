@@ -37,11 +37,12 @@ Table of Contents:
 	5)To build the project executable
 		5a)Select File->Build Settings
 		5b)Make sure the following scenes are selected
-			SL/Scenes/MainMenu
-			SL/Scenes/Lobby
-			Scenes/GameScene
-			BF/Scenes/BFGameLevel
-			JD/Scenes/Perks
+			Assets/Scenes/MainMenu		//WIP
+			Assets/Scenes/Lobby		//WIP
+			Assets/Scenes/GameScene
+			Assets/Scenes/BFGameLevel
+			Assets/Scenes/Perks
+			Assets/src/JD/Scenes/JDLevel	//WIP
 		5c)Select the desired platform.
 		5d)Select build and choose the desired output.
 	6)Navigate to location built
